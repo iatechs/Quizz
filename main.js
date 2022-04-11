@@ -1,4 +1,3 @@
-import './style.css';
 import perguntas from './perguntas.js';
 console.log(perguntas);
 click.addEventListener('click', valida);
