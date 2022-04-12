@@ -1,3 +1,1 @@
-# vite-hwnauk
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vite-hwnauk)
+https://iatechs.github.io/Quizz/
