@@ -25,7 +25,7 @@ function valida() {
   }
   if (i === 10) {
     texto.innerText =
-      'PARABÉNS, Conseguiste acertar em todas como recompensa ganhas-te um jantar num sítio a tua escolha, pago eu 😘';
+      'PARABÉNS, Conseguiste acertar em todas como recompensa ganhas-te um jantar num sítio à tua escolha, pago eu 😘';
   }
 }
 
