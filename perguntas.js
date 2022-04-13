@@ -1,7 +1,7 @@
 export default [
   {
     question:
-      'Olá se chegaste aqui é porque recebeste a minha carta que te enviei com muito carinho, de seguida vais ter um pequenino quizz, espero que acertes todas😁, em baixo vais puder ver um pequeno vídeo sobre a nossa história sobre os nossos momentos, espero que gostes, quando te sentires preparada clicka em avançar!',
+      'Olá se chegaste aqui é porque recebeste a minha carta que te enviei com muito carinho, de seguida vais ter um pequenino quizz, espero que acertes todas😁, em baixo vais puder ver um pequeno vídeo sobre a nossa história sobre os nossos momentos, espero que gostes, quando te sentires preparada clica em avançar!',
     answer: '',
     hint: '',
     award: '',
@@ -9,7 +9,9 @@ export default [
   {
     question: 'Dia nacional da poesia?',
     answer: '14/03',
-    hint: 'Março formato da data dd/mm',
+    answer2: '14-03',
+    answer3: '14 de Março',
+    hint: 'Março',
     award:
       'Dia que nos conhecemos, lá estavas tu no fundo da cozinha ao lado da janela, com um jeito tímido e carinhoso, uma miúda lindíssima, um dia incrível na melhor das companhias, com pessoas que nos são importantes.',
   },
@@ -30,7 +32,9 @@ export default [
   {
     question: 'Dia mundial do gato?',
     answer: '08/08',
-    hint: 'Agosto formato da data dd/mm',
+    answer2: '08-08',
+    answer3: '08 de Agosto',
+    hint: 'Agosto',
     award:
       'Dia que começamos a namorar💕, um dia desajeitado, trengo, mas carregado de sentimento muitas vezes não demostrado, mas sempre sentido, somos perfeitos na nossa imprefeissão😍',
   },
@@ -60,12 +64,12 @@ export default [
     answer: 'Carina',
     hint: 'Tem 26 anos 🤣',
     award:
-      'Realmente há pessoas que fazem diferença nas nossas vidas, há pessoas que nos marcam de uma forma inigualável, há pessoas que mesmo sem falar mesmo sem fazerem nada, têm uma importância que às vezes nem conseguimos perceber. E tu sem Dúvida foste uma pessoa que apenas tua presença não valia mais do que mil palavras, mas muito mais do que mil universos, e se vivêssemos mil vidas e em todas elas eu só te queria a ti, Amo-te ❤️',
+      'Realmente há pessoas que fazem diferença nas nossas vidas, há pessoas que nos marcam de uma forma inigualável, há pessoas que mesmo sem falar mesmo sem fazerem nada, têm uma importância que às vezes nem conseguimos perceber. E tu sem Dúvida foste uma pessoa que apenas tua presença não valia mais do que mil palavras, mas muito mais do que mil universos, e se vivêssemos mil vidas e em todas elas eu só te queria a ti, Amo-te ❤️. Agora para veres a tua recompensa é só clicar em avançar, espero que gostes...',
   },
   {
     question: 'PARABÉNS',
     answer: 'Carina',
-    answer: '',
+    answer2: '',
     hint: '',
     award: '',
   },

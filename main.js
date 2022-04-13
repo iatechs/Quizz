@@ -9,7 +9,11 @@ function valida() {
   const valor = input.value;
   console.log(valor, pergunta);
 
-  if (valor === pergunta.answer) {
+  if (
+    valor === pergunta.answer ||
+    valor === pergunta.answer2 ||
+    valor === pergunta.answer3
+  ) {
     emoji.innerText = '🤩';
     texto.innerText = pergunta.award;
     if (i < k) {
