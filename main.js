@@ -4,7 +4,7 @@ click.addEventListener('click', valida);
 let i = -1;
 let pergunta = perguntas[i];
 proxima();
-let k = 9;
+let k = 10;
 function valida() {
   const valor = input.value;
   console.log(valor, pergunta);
@@ -19,7 +19,7 @@ function valida() {
     texto.innerText = pergunta.hint;
     emoji.innerText = '😭';
   }
-  if (i === 9) {
+  if (i === 10) {
     texto.innerText =
       'PARABÉNS, Conseguiste acertar em todas como recompensa ganhas-te um jantar num sítio a tua escolha, pago eu 😘';
   }
