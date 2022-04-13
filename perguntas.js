@@ -9,9 +9,7 @@ export default [
   {
     question: 'Dia nacional da poesia?',
     answer: '14/03',
-    answer: '14-03',
-    answer: '14 de Março',
-    hint: 'Março',
+    hint: 'Março formato da data dd/mm',
     award:
       'Dia que nos conhecemos, lá estavas tu no fundo da cozinha ao lado da janela, com um jeito tímido e carinhoso, uma miúda lindíssima, um dia incrível na melhor das companhias, com pessoas que nos são importantes.',
   },
@@ -32,9 +30,7 @@ export default [
   {
     question: 'Dia mundial do gato?',
     answer: '08/08',
-    answer: '08-08',
-    answer: '08 de Agosto',
-    hint: '08',
+    hint: 'Agosto formato da data dd/mm',
     award:
       'Dia que começamos a namorar💕, um dia desajeitado, trengo, mas carregado de sentimento muitas vezes não demostrado, mas sempre sentido, somos perfeitos na nossa imprefeissão😍',
   },
